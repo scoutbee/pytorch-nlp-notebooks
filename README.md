@@ -30,8 +30,6 @@ If you find that you are missing a necessary package, you can prepend `!` to a b
 !pip install googledrivedownloader
 ```
 
-Check out necessary requirements in `requirements.txt`.
-
 ### Using a GPU
 
 To use a GPU (for free!), select from the top menu from Colab `Runtime -> Change Runtime Type -> Hardware Accelerator -> GPU`. Pay attention to how much memory the GPU is currently using by clicking `Runtime -> Manage Sessions`.
