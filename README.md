@@ -12,10 +12,15 @@ Learn how to use PyTorch to solve some common NLP problems with deep learning.
 
 ## Setup
 
-Make sure you have a Google account and visit [Google Colab](https://colab.research.google.com/). You can then save the notebook you want to run from this repo, and then upload it to Google Colab with `File -> Open Notebook -> Upload`. To use a GPU, click `Runtime -> Hardware Accelerator -> GPU`.
+Make sure you have a Google account and visit [Google Colab](https://colab.research.google.com/). The click on the `GitHub` tab, type in `scoutbeedev`, and press \<ENTER\>. You should see a list of notebooks pop up:
 
-Now that you have a notebook, you can run cells with \<SHIFT\> + \<ENTER\>.
+![colab_notebook_selection](images/colab_notebook_selection.png)
 
+If you have trouble with that, you can also save the notebook you want to run from this repo to your local filesystem, and then upload it to Google Colab with `File -> Open Notebook -> Upload`.
+
+### Basic Navigation
+
+You can run cells with \<SHIFT\> + \<ENTER\>.
 
 ### Missing packages
 
