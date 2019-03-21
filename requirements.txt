@@ -1,0 +1,12 @@
+# Install PyTorch from https://pytorch.org/
+googledrivedownloader
+matplotlib
+nltk
+numpy
+pandas
+pymagnitude
+pypeln
+pytorch_pretrained_bert
+scipy
+sklearn
+tqdm
