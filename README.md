@@ -14,10 +14,19 @@ Learn how to use PyTorch to solve some common NLP problems with deep learning.
 
 Make sure you have a Google account and visit [Google Colab](https://colab.research.google.com/). You can then save the notebook you want to run from this repo, and then upload it to Google Colab with `File -> Open Notebook -> Upload`. To use a GPU, click `Runtime -> Hardware Accelerator -> GPU`.
 
-Now that you have a notebook, you can run cells with \<SHIFT\> + \<ENTER\>. If you find that you are missing a necessary package, you can prepend `!` to a bash command. For example, to install `googledrivedownloader`, you would run in a cell:
+Now that you have a notebook, you can run cells with \<SHIFT\> + \<ENTER\>.
+
+
+### Missing packages
+
+If you find that you are missing a necessary package, you can prepend `!` to a bash command. For example, to install `googledrivedownloader`, you would run in a cell:
 
 ```
 !pip install googledrivedownloader
 ```
 
 Check out necessary requirements in `requirements.txt`.
+
+### Using a GPU
+
+To use a GPU (for free!), select from the top menu from Colab `Runtime -> Change Runtime Type -> Hardware Accelerator -> GPU`. Pay attention to how much memory the GPU is currently using by clicking `Runtime -> Manage Sessions`.
