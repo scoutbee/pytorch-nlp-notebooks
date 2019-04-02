@@ -13,7 +13,7 @@ Learn how to use PyTorch to solve some common NLP problems with deep learning.
 
 ## Setup
 
-Make sure you have a Google account and visit [Google Colab](https://colab.research.google.com/github/scoutbeedev/). You should see a list of notebooks pop up:
+Make sure you have a Google account and visit [Google Colab](https://colab.research.google.com/github/scoutbeedev/pytorch-nlp-notebooks). You should see a list of notebooks pop up:
 
 ![colab_notebook_selection](images/colab_notebook_selection.png)
 
