@@ -8,6 +8,7 @@ Learn how to use PyTorch to solve some common NLP problems with deep learning.
 - [`3_rnn_text_classification.ipynb`](https://github.com/scoutbeedev/pytorch-nlp-notebooks/blob/master/3_rnn_text_classification.ipynb): Train an LSTM to predict the sentiment of IMDB movie reviews
 - [`4_bert_text_classification.ipynb`](https://github.com/scoutbeedev/pytorch-nlp-notebooks/blob/master/4_bert_text_classification.ipynb): Fine-tune the pretrained (small) BERT model to predict the sentiment of IMDB movie reviews
 - [`5_gpt2_text_generation.ipynb`](https://github.com/scoutbeedev/pytorch-nlp-notebooks/blob/master/5_gpt2_text_generation.ipynb): Fine-tune the pretrained (small) GPT-2 model to generate weight loss articles
+- [`6_seq2seq_attention_translation.ipynb`](https://github.com/scoutbeedev/pytorch-nlp-notebooks/blob/master/6_seq2seq_attention_translation.ipynb): Train a Seq2Seq model with attention to translate from English to French
 
 
 ## Setup
