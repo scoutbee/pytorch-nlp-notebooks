@@ -1,19 +1,17 @@
 # A Deep Dive into NLP with PyTorch
 
-Learn how to use PyTorch to solve some common NLP problems with deep learning.
+Learn how to use PyTorch to solve some common NLP problems with deep learning. View these notebooks on [nbviewer](https://nbviewer.jupyter.org/github/scoutbee/pytorch-nlp-notebooks/tree/develop/).
 
-- [`0_pytorch_intro.ipynb`](https://github.com/scoutbeedev/pytorch-nlp-notebooks/blob/master/0_pytorch_intro.ipynb): Introduction to PyTorch
-- [`1_BoW_text_classification.ipynb`](https://github.com/scoutbeedev/pytorch-nlp-notebooks/blob/master/1_BoW_text_classification.ipynb): Train a bag-of-words model to predict the sentiment of IMDB reviews
-- [`2_embeddings.ipynb`](https://github.com/scoutbeedev/pytorch-nlp-notebooks/blob/master/2_embeddings.ipynb): Play around with different pretrained word embeddings
-- [`3_rnn_text_classification.ipynb`](https://github.com/scoutbeedev/pytorch-nlp-notebooks/blob/master/3_rnn_text_classification.ipynb): Train an LSTM to predict the sentiment of IMDB movie reviews
-- [`4_bert_text_classification.ipynb`](https://github.com/scoutbeedev/pytorch-nlp-notebooks/blob/master/4_bert_text_classification.ipynb): Fine-tune the pretrained (small) BERT model to predict the sentiment of IMDB movie reviews
-- [`5_gpt2_text_generation.ipynb`](https://github.com/scoutbeedev/pytorch-nlp-notebooks/blob/master/5_gpt2_text_generation.ipynb): Fine-tune the pretrained (small) GPT-2 model to generate weight loss articles
-- [`6_seq2seq_attention_translation.ipynb`](https://github.com/scoutbeedev/pytorch-nlp-notebooks/blob/master/6_seq2seq_attention_translation.ipynb): Train a Seq2Seq model with attention to translate from English to French
-
+- [`1_BoW_text_classification.ipynb`](https://nbviewer.jupyter.org/github/scoutbee/pytorch-nlp-notebooks/blob/develop/1_BoW_text_classification.ipynb): Train a bag-of-words model to predict the sentiment of IMDB reviews
+- [`2_embeddings.ipynb`](https://nbviewer.jupyter.org/github/scoutbee/pytorch-nlp-notebooks/blob/develop/2_embeddings.ipynb): Play around with different pretrained word embeddings
+- [`3_rnn_text_classification.ipynb`](https://nbviewer.jupyter.org/github/scoutbee/pytorch-nlp-notebooks/blob/develop/3_rnn_text_classification.ipynb): Train an RNN to predict the sentiment of IMDB movie reviews
+- [`4_character_text_generation.ipynb`](https://nbviewer.jupyter.org/github/scoutbee/pytorch-nlp-notebooks/blob/develop/4_character_text_generation.ipynb): Train an RNN to generate weight loss articles
+- [`5_seq2seq_attention_translation.ipynb`](https://nbviewer.jupyter.org/github/scoutbee/pytorch-nlp-notebooks/blob/develop/5_seq2seq_attention_translation.ipynb): Train a Seq2Seq model with attention to translate from English to French
+- [`6_gpt2_text_generation.ipynb`](https://nbviewer.jupyter.org/github/scoutbee/pytorch-nlp-notebooks/blob/develop/6_gpt2_finetuned_text_generation.ipynb): Fine-tune the pretrained (small) GPT-2 model to generate weight loss articles
 
 ## Setup
 
-Make sure you have a Google account and visit [Google Colab](https://colab.research.google.com/github/scoutbeedev/pytorch-nlp-notebooks). You should see a list of notebooks pop up:
+Make sure you have a Google account and visit [Google Colab](https://colab.research.google.com/github/scoutbee/pytorch-nlp-notebooks). You should see a list of notebooks pop up:
 
 ![colab_notebook_selection](images/colab_notebook_selection.png)
 
