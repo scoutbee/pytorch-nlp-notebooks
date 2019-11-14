@@ -5,8 +5,8 @@ Learn how to use PyTorch to solve some common NLP problems with deep learning. V
 - [`1_BoW_text_classification.ipynb`](https://nbviewer.jupyter.org/github/scoutbee/pytorch-nlp-notebooks/blob/develop/1_BoW_text_classification.ipynb): Train a bag-of-words model to predict the sentiment of IMDB reviews
 - [`2_embeddings.ipynb`](https://nbviewer.jupyter.org/github/scoutbee/pytorch-nlp-notebooks/blob/develop/2_embeddings.ipynb): Play around with different pretrained word embeddings
 - [`3_rnn_text_classification.ipynb`](https://nbviewer.jupyter.org/github/scoutbee/pytorch-nlp-notebooks/blob/develop/3_rnn_text_classification.ipynb): Train an RNN to predict the sentiment of IMDB movie reviews
-- [`4_character_text_generation.ipynb`](https://nbviewer.jupyter.org/github/scoutbee/pytorch-nlp-notebooks/blob/develop/4_character_text_generation.ipynb): Train an character-level RNN language model to generate weight loss articles
-- [`5_seq2seq_attention_translation.ipynb`](https://nbviewer.jupyter.org/github/scoutbee/pytorch-nlp-notebooks/blob/develop/5_seq2seq_attention_translation.ipynb): Train a RNN-based Seq2Seq model with attention to translate from English to French
+- [`4_character_text_generation.ipynb`](https://nbviewer.jupyter.org/github/scoutbee/pytorch-nlp-notebooks/blob/develop/4_character_text_generation.ipynb): Train a character-level RNN language model to generate weight loss articles
+- [`5_seq2seq_attention_translation.ipynb`](https://nbviewer.jupyter.org/github/scoutbee/pytorch-nlp-notebooks/blob/develop/5_seq2seq_attention_translation.ipynb): Train an RNN-based Seq2Seq model with attention to translate from English to French
 - [`6_transformer_translation.ipynb`](https://nbviewer.jupyter.org/github/scoutbee/pytorch-nlp-notebooks/blob/develop/6_transformer_translation.ipynb): Train a pure self-attention based transformer Seq2Seq model to translate from English to French
 - [`7_gpt2_finetuned_text_generation.ipynb`](https://nbviewer.jupyter.org/github/scoutbee/pytorch-nlp-notebooks/blob/develop/7_gpt2_finetuned_text_generation.ipynb): Fine-tune the pretrained (small) GPT-2 model to generate weight loss articles
 
