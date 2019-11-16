@@ -1,0 +1,13 @@
+boltons
+googledrivedownloader
+matplotlib
+nltk
+numpy
+pandas
+pymagnitude
+pytorch_pretrained_bert
+scipy
+sklearn
+tensorboardcolab
+torch
+tqdm
